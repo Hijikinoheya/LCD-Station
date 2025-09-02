@@ -1,0 +1,13 @@
+{
+    "departures": [
+      { "time": "15:18", "destination": "さざんか 24号　杭州・雪橋行", "line": "南西線", "platform": "6", "type": "特急" , "stops": ["杭州", "雪橋"]},
+      { "time": "15:17", "destination": "当駅どまり", "line": "南西線", "platform": "5", "type": "回送"  ,"pass_through": true, "delay_secs":0},
+      { "time": "15:16", "destination": "", "line": "", "platform": "2", "type": "通過" , "via": "","pass_through": true},
+      { "time": "15:00", "destination": "きのこ島・郡山・大洞窟行", "line": "東西線", "platform": "2", "type": "普通" , "stops": ["大洞窟までの各駅"] },
+      { "time": "15:01", "destination": "川谷行", "line": "南西線", "platform": "5", "type": "区間快速", "stops": ["サバンナ対岸", "川谷"]  },
+      { "time": "15:02", "destination": "赤竹・新羅中央・大山行", "line": "北高速線", "platform": "3", "type": "快速", "stops": ["砂木", "沼西", "郡山西", "赤竹", "新羅", "新羅中央", "南山", "高山", "青山", "大山"]},
+      { "time": "15:02", "destination": "杭州行", "line": "北高速線", "platform": "4", "type": "快速" , "via": "南西線", "stops": ["高速舞倉", "西倉"] }
+    ]
+  }
+  
+  

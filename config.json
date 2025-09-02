@@ -1,0 +1,17 @@
+{
+  "thresholds": {
+    "approach_before_secs": 77,
+    "arrival_before_secs": 57,
+    "stop_before_secs": 40,
+    "remove_after_secs": 10
+  },
+  "font_family": "BIZ UDPGothic",
+  "mono_family": "Cascadia Mono",
+  "base_font_size": 14,
+  "contrast": "high",
+  "sound": {
+    "volume": 100
+  },
+  "station_name": "山谷",
+  "ticker_message": "お知らせ: 車内での通話はお控えください。忘れ物にご注意ください。痴漢は犯罪です。見かけた方や被害者の方などはお近くの駅員に相談ください。"
+}

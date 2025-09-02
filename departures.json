@@ -1,0 +1,409 @@
+{
+  "departures": [
+    {
+      "time": "5:00",
+      "destination": "雪橋行",
+      "line": "南西線",
+      "platform": "3",
+      "type": "普通",
+      "via": "",
+      "stops": [
+        "雪橋までの各駅"
+      ]
+    },
+    {
+      "time": "5:02",
+      "destination": "川谷行",
+      "line": "南西線",
+      "platform": "4",
+      "type": "区間快速",
+      "via": "",
+      "stops": [
+        "サバンナ対岸"
+      ]
+    },
+    {
+      "time": "5:04",
+      "destination": "新羅中央行",
+      "line": "北高速線",
+      "platform": "7",
+      "type": "急行",
+      "via": "",
+      "stops": [
+        "大きのこ島",
+        "赤竹"
+      ]
+    },
+    {
+      "time": "5:05",
+      "destination": "南洞窟行",
+      "line": "北高速線",
+      "platform": "8",
+      "type": "普通",
+      "via": "",
+      "stops": [
+        "南洞窟"
+      ]
+    },
+    {
+      "time": "5:06",
+      "destination": "大洞窟前行",
+      "line": "東西線",
+      "platform": "5",
+      "type": "快速",
+      "via": "",
+      "stops": [
+        "きのこ島から北氷平までの各駅と",
+        "郡山",
+        "平原",
+        "大崎"
+      ]
+    },
+    {
+      "time": "5:30",
+      "destination": "大洞窟前行",
+      "line": "東西線",
+      "platform": "5",
+      "type": "通勤特急",
+      "via": "",
+      "stops": [
+        "きのこ島"
+      ]
+    },
+    {
+      "time": "5:35",
+      "destination": "南平原行",
+      "line": "東西線",
+      "platform": "6",
+      "type": "特急",
+      "via": "",
+      "stops": [
+        "雪原",
+        "氷端",
+        "砂漠"
+      ]
+    },
+    {
+      "time": "5:40",
+      "destination": "通過",
+      "line": "",
+      "platform": "3",
+      "type": "",
+      "via": "",
+      "pass_through": true
+    },
+    {
+      "time": "5:50",
+      "destination": "通過",
+      "line": "",
+      "platform": "5",
+      "type": "",
+      "via": "",
+      "pass_through": true
+    },
+    {
+      "time": "6:10",
+      "destination": "氷山中央行",
+      "line": "北西線",
+      "platform": "1",
+      "type": "快速",
+      "via": "",
+      "stops": [
+        "ジャングル中央",
+        "海北",
+        "西海岸",
+        "雪森"
+      ]
+    },
+    {
+      "time": "6:14",
+      "destination": "杭州行",
+      "line": "南西線",
+      "platform": "3",
+      "type": "区間快速",
+      "via": "",
+      "stops": [
+        "高速舞倉",
+        "西倉",
+        "村咲"
+      ]
+    },
+    {
+      "time": "6:17",
+      "destination": "野中行",
+      "line": "北西線",
+      "platform": "1",
+      "type": "普通",
+      "via": "",
+      "stops": [
+        "野中までの各駅"
+      ]
+    },
+    {
+      "time": "6:20",
+      "destination": "川谷行",
+      "line": "北西線",
+      "platform": "2",
+      "type": "普通",
+      "via": "南西線",
+      "stops": [
+        "サバンナ対岸"
+      ]
+    },
+    {
+      "time": "6:30",
+      "destination": "南平原行",
+      "line": "東西線",
+      "platform": "6",
+      "type": "通勤特急",
+      "via": "",
+      "stops": [
+        "全駅通過"
+      ]
+    },
+    {
+      "time": "6::32",
+      "destination": "郡平行",
+      "line": "北西郡平線",
+      "platform": "1",
+      "type": "区間快速",
+      "via": "北西線",
+      "stops": [
+        "ジャングル中央",
+        "海北",
+        "西海岸"
+      ]
+    },
+    {
+      "time": "6:34",
+      "destination": "雪橋行",
+      "line": "南西線",
+      "platform": "3",
+      "type": "普通",
+      "via": "",
+      "stops": [
+        "雪橋までの各駅"
+      ]
+    },
+    {
+      "time": "6:36",
+      "destination": "西洞窟行",
+      "line": "北高速線支線",
+      "platform": "7",
+      "type": "普通",
+      "via": "北高速線",
+      "stops": [
+        "西洞窟までの各駅"
+      ]
+    },
+    {
+      "time": "6:38",
+      "destination": "八代行",
+      "line": "南高速線",
+      "platform": "7",
+      "type": "普通",
+      "via": "北高速線",
+      "stops": [
+        "八代までの各駅"
+      ]
+    },
+    {
+      "time": "6:40",
+      "destination": "八代行",
+      "line": "南高速線",
+      "platform": "7",
+      "type": "新快速",
+      "via": "北高速線　西平井で新快速列車に接続",
+      "stops": [
+        "西平井",
+        "桂",
+        "南平",
+        "盛岡",
+        "新盛岡",
+        "深谷",
+        "西村",
+        "横山",
+        "津呂",
+        "長田",
+        "小池",
+        "八代"
+      ]
+    },
+    {
+      "time": "6:42",
+      "destination": "大山行",
+      "line": "北高速線",
+      "platform": "7",
+      "type": "快速",
+      "via": "",
+      "stops": [
+        "西平井",
+        "砂木",
+        "沼西",
+        "郡山西",
+        "赤竹",
+        "新羅",
+        "新羅中央",
+        "南山",
+        "高山",
+        "青山"
+      ]
+    },
+    {
+      "time": "6:45",
+      "destination": "西森行",
+      "line": "南高速線",
+      "platform": "7",
+      "type": "区間快速",
+      "via": "南高速線西森支線",
+      "stops": [
+        "桂までの各駅",
+        "宮北",
+        "南平",
+        "盛岡",
+        "深森から大川までの各駅",
+        "雪谷",
+        "郡谷",
+        "横山",
+        "川越",
+        "高橋",
+        "津呂",
+        "緑地",
+        "長田",
+        "新田",
+        "杉山",
+        "沼地",
+        "西森"
+      ]
+    },
+    {
+      "time": "6:50",
+      "destination": "本橋行",
+      "line": "西高速線",
+      "platform": "2",
+      "type": "普通",
+      "via": "北西線",
+      "stops": [
+        "本橋までの各駅"
+      ]
+    },
+    {
+      "time": "6:53",
+      "destination": "新大山行",
+      "line": "南西線新大山支線",
+      "platform": "3",
+      "type": "区間快速",
+      "via": "南西線",
+      "stops": [
+        "高速舞倉",
+        "西倉",
+        "村咲",
+        "杭州",
+        "東大山",
+        "西大山",
+        "西川村",
+        "川沿"
+      ]
+    },
+    {
+      "time": "6:55",
+      "destination": "昆布行",
+      "line": "西高速線昆布線",
+      "platform": "2",
+      "type": "普通",
+      "via": "西高速線　川西池田で折り返し",
+      "stops": [
+        "昆布までの各駅"
+      ]
+    },
+    {
+      "time": "6:58",
+      "destination": "野中行",
+      "line": "北西線",
+      "platform": "1",
+      "type": "急行",
+      "via": "",
+      "stops": [
+        "ジャングル中央",
+        "海北",
+        "雪森",
+        "氷山中央"
+      ]
+    },
+    {
+      "time": "7:00",
+      "destination": "長田行",
+      "line": "西高速線",
+      "platform": "7",
+      "type": "特急",
+      "via": "北高速線",
+      "stops": [
+        "西平井",
+        "盛岡",
+        "西村",
+        "横山"
+      ]
+    },
+    {
+      "time": "7:01",
+      "destination": "通過",
+      "line": "",
+      "platform": "8",
+      "type": "",
+      "via": "",
+      "pass_through": true
+    },
+    {
+      "time": "7:02",
+      "destination": "南平原行",
+      "line": "東西線",
+      "platform": "6",
+      "type": "普通",
+      "via": "",
+      "stops": [
+        "南平原までの各駅"
+      ]
+    },
+    {
+      "time": "7:03",
+      "destination": "川谷行",
+      "line": "南西線",
+      "platform": "4",
+      "type": "急行",
+      "via": "",
+      "stops": [
+        "サバンナ対岸"
+      ]
+    },
+    {
+      "time": "7:03",
+      "destination": "サバンナ対岸行",
+      "line": "北西線",
+      "platform": "2",
+      "type": "快速",
+      "via": "",
+      "stops": [
+        "サバンナ対岸"
+      ]
+    },
+    {
+      "time": "7:06",
+      "destination": "西廃坑",
+      "line": "西高速線",
+      "platform": "2",
+      "type": "普通",
+      "via": "北西線",
+      "stops": [
+        "西廃坑までの各駅"
+      ]
+    },
+    {
+      "time": "7:10",
+      "destination": "回送",
+      "line": "",
+      "platform": "5",
+      "type": "",
+      "via": ""
+    }
+  ]
+}
